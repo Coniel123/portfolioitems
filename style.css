@@ -1,0 +1,217 @@
+* {
+  box-sizing: border-box;
+}
+
+.heart-section {
+  height: 323px;
+  margin: 20px 5%;
+}
+
+.heart-section-container {
+  height: 100%;
+}
+
+.user-images {
+  display: flex;
+  justify-content: center;
+}
+
+.user-images__Heart {
+  height: 323px;
+}
+
+.sound-section {
+  height: 200px;
+}
+
+.sound-section-container {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 850px;
+}
+
+.audio-items {
+  display: flex;
+  justify-content: center;
+}
+
+.click_me {
+  display: flex;
+  align-items: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.user-images__MFT {
+  width: 427px;
+  height: 200px;
+  margin: 0 5%;
+}
+
+.user-images__MFT:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.time-section-container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 825px;
+  width: 850px;
+}
+
+.user-images__6-months {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cheesy-quote,
+.cheesy-quote2,
+.cheesy-quote3,
+.cheesy-quote4 {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.common-interests-section-container,
+.pictures-section-container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+}
+
+.games-section,
+.servers-section,
+.her-section,
+.my-section {
+  width: 50%;
+}
+
+.games-section__comment,
+.servers-section__comment,
+.her-section__comment,
+.my-section__comment {
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.games-section__image-container {
+  height: 350px;
+}
+
+.user-images__games {
+  width: 400;
+  transform: translate(2%, 0);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.games-section__image-container2 {
+  height: 200px;
+}
+
+.user-images__fortnite {
+  transform: scale(0.6, 0.6) translate(0, -30%);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.games-section__image-container3 {
+  height: 350px;
+}
+
+.user-images__among-us {
+  transform: scale(0.6, 0.6) translate(0, -30%);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.servers-section__image-container {
+  height: 350px;
+}
+
+.user-images__servers {
+  transform: scale(0.6, 0.6) translate(0, -30%);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.servers-section__image-container2 {
+  height: 200px;
+}
+
+.user-images__dgr {
+  transform: scale(0.7, 0.7) translate(0, -10%);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.user-images__genshin-impact {
+  transform: scale(0.7, 0.7) translate(0, -25%);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.her-section__image-container {
+  height: 400px;
+}
+.user-images__her-baby {
+  margin-right: auto;
+  margin-left: auto;
+  width: 400px;
+}
+
+.user-images__purple {
+  margin-right: auto;
+  margin-left: auto;
+  width: 400px;
+}
+
+.user-images__me-baby {
+  margin-right: auto;
+  margin-left: auto;
+  height: 400px;
+  transform: translate(65px, 0);
+}
+
+.user-images__me {
+  margin-right: auto;
+  margin-left: auto;
+  width: 400px;
+}
+
+.Miku-picture-section-container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+  justify-content: center;
+}
+
+.us-picture-section-container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+  justify-content: center;
+}
+
+.cheesy-quote5 {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
